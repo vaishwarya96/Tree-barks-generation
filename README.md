@@ -4,7 +4,7 @@ Codes for the paper "A data driven approach to generate realistic 3D tree barks"
 
 If you use this code, please cite:
 
-Venkataramanan, Aishwarya, Antoine Richard, and Cédric Pradalier. "A data driven approach to generate realistic 3D tree barks." Graphical Models 123 (2022): 101166.
+Aishwarya Venkataramanan, Antoine Richard, Cédric Pradalier, A data driven approach to generate realistic 3D tree barks, Graphical Models, Volume 123, 2022, 101166, ISSN 1524-0703, https://doi.org/10.1016/j.gmod.2022.101166.
 
 ```
 @article{venkataramanan2022data,
