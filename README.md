@@ -17,3 +17,6 @@ Aishwarya Venkataramanan, Antoine Richard, Cédric Pradalier, A data driven appr
   publisher={Elsevier}
 }
 ```
+## Repository Structure
+
+TODO
