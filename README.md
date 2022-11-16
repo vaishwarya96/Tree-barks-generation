@@ -16,5 +16,4 @@ Aishwarya Venkataramanan, Antoine Richard, Cédric Pradalier, A data driven appr
   year={2022},
   publisher={Elsevier}
 }
-
 ```
