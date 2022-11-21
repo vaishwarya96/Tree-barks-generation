@@ -19,4 +19,4 @@ Aishwarya Venkataramanan, Antoine Richard, Cédric Pradalier, A data driven appr
 ```
 ## Repository Structure
 
-TODO
+1. 
