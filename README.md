@@ -19,4 +19,7 @@ Aishwarya Venkataramanan, Antoine Richard, Cédric Pradalier, A data driven appr
 ```
 ## Repository Structure
 
-TODO
+maps_extraction - It takes the 3D point cloud of the tree barks and extracts the bark surface geometry and color.
+DepthReinforcedSPADE - GAN to generate bark surface and color.
+
+For using each of these softwares, please refer to the README files of the respective directories.
