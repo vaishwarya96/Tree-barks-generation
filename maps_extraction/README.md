@@ -7,10 +7,6 @@ PCL -Tested on version 1.3
 
 ## Installation
 
-Clone the repository 
-```bash
-git clone https://github.com/anon454/maps_extraction.git
-```
 Compilation
 ```bash
 cd maps_extraction
